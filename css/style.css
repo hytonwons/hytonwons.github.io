@@ -12,7 +12,7 @@
 html,
 body {
   height: 100%;
-  font-family: 'Book Antiqua', sans-serif;
+  font-family: 'Book Antiqua';
 }
 
 h1,
@@ -24,7 +24,7 @@ h6 {
   color: #001418;
   margin: 0;
   font-weight: 600;
-  font-family: 'Book Antiqua', sans-serif;
+  font-family: 'Book Antiqua';
 }
 
 p {
