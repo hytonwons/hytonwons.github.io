@@ -1,0 +1,34 @@
+# jemdoc: nofooter
+= Ji Wang
+
+~~~
+{}{img_left}{img/me.jpg}{alt text}{182}{242}
+
+Ph.D. student \n
+
+Computer Science, University of California, Davis \n
+
+\n
+Office: 2356 Academic Surge \n
+
+E-mail: jiiwang at ucdavis dot edu \n
+
+[https://github.com/hytonwons/, GitHub] | [https://www.instagram.com/g_allery_one/ Instagram]
+~~~
+
+== About me
+I am currently a third year Ph.D. student in Computer Science at [http://www.cs.ucdavis.edu/ UC Davis]. Before moving to Davis, I earned my Master's degree at [http://www.isri.cmu.edu/ Carnegie Mellon University] and Bachelor's degree at [https://software.nju.edu.cn/English/index.html/ Nanjing University].
+
+At Davis, I am fortunate to work with Prof. [http://web.cs.ucdavis.edu/~bai/ Zhaojun Bai] on numerical linear algebra and its applications. At CMU, I collaborated with Prof. [https://clairelegoues.com/ Clarie Le Goues] on automatic program repair by leveraging SMT in semantic search.
+
+== Research & Publication
+My research interests lie in numerical algorithms and its applications, and software engineering.
+
+== Teaching
+- Lead Teaching Assistant: ECS-122A Algorithm Design and Analysis ([https://github.com/hytonwons/ECS-122A-S21-Discussion/ Discussion Notes]), Spring 2021.
+- Lead Teaching Assistant: ECS-20 Discrete Mathematics for Computer Science ([https://github.com/hytonwons/ECS-20-W21-Discussion/ Discussion Notes]), Winter 2021.
+- Lead Teaching Assistant: ECS-122A Algorithm Design and Analysis, Fall 2020.
+- Lead Teaching Assistant: ECS-122A Algorithm Design and Analysis, Spring 2020.
+- Lead Teaching Assistant: ECS-20 Discrete Mathematics for Computer Science, Winter 2020.
+- Lead Teaching Assistant: ECS-160 Software Engineering, Fall 2019.
+- Lead Teaching Assistant, ECS-122A Algorithm Design and Analysis ([https://github.com/hytonwons/ECS-122A-S19-Discussion/ Discussion Notes]), Spring 2019.
